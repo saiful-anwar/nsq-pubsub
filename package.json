@@ -1,0 +1,19 @@
+{
+  "name": "mentoring-tada-nsq",
+  "version": "1.0.0",
+  "description": "mentoring NSQ PUB/SUB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsq",
+    "pub/sub"
+  ],
+  "author": "saiful.anwar@usetada.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nsqjs": "^0.13.0"
+  }
+}
